@@ -1,8 +1,8 @@
 # AboutMe
 Opis moich aktualnych umiejętności związanych z web developmentem. Spis języków, bibliotek i technologii z których potrafię korzystać lub rozwijam się w ich kierunku. 
 
-Dobra znajomość z wykorzystaniem zawodowym:
-- HTML5
+Dobra znajomość z doświadczeniem zawodowym:
+- HTML5 (Photoshop / Figma)
 - CSS3
 - LESS / SASS
 - Bootstrap
@@ -15,7 +15,7 @@ Dobra znajomość z wykorzystaniem zawodowym:
 - CMS
 - Agile
 - Yarn / npm
-- podstawy budowy aplikacji pod SEO
+- Podstawy budowy aplikacji pod SEO
 
 Uczę się:
 - React
