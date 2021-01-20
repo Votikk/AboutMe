@@ -14,7 +14,7 @@ Dobra znajomość z wykorzystaniem zawodowym:
 - SQL + MySQL
 - CMS
 - Agile
-- Yarn / Npm
+- Yarn / npm
 - podstawy budowy aplikacji pod SEO
 
 Uczę się:
