@@ -7,6 +7,7 @@ Dobra znajomość z doświadczeniem zawodowym:
 - LESS / SASS
 - Bootstrap
 - Javascript ES5 / ES6
+- AJAX
 - Yarn / npm
 - jQuery
 - PHP
