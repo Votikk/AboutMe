@@ -19,6 +19,8 @@ Dobra znajomość z doświadczeniem zawodowym:
 - Podstawy budowy aplikacji pod SEO
 
 Uczę się:
+- Node.js
+- Gulp
 - React
 - Wordpress
 
