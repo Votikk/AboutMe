@@ -13,7 +13,7 @@ Dobra znajomość z doświadczeniem zawodowym:
 - MVC
 - SQL + MySQL
 - CMS
-- Agile
+- Agile, SCRUM
 - Yarn / npm
 - Podstawy budowy aplikacji pod SEO
 
