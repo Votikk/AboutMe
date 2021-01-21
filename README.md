@@ -7,14 +7,15 @@ Dobra znajomość z doświadczeniem zawodowym:
 - LESS / SASS
 - Bootstrap
 - Javascript ES5 / ES6
+- Yarn / npm
 - jQuery
 - PHP
 - CakePHP
 - MVC
 - SQL + MySQL
+- Podstawy .htpasswd / .htaccess
 - CMS
 - Agile, SCRUM
-- Yarn / npm
 - Podstawy budowy aplikacji pod SEO
 
 Uczę się:
