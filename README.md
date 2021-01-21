@@ -22,6 +22,7 @@ Uczę się:
 - Node.js
 - Gulp
 - React
+- CRON
 - Wordpress
 
 Zainteresowany:
