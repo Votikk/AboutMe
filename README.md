@@ -4,7 +4,7 @@ Opis moich aktualnych umiejętności związanych z web developmentem. Spis języ
 Dobra znajomość z doświadczeniem zawodowym:
 - HTML5 (Photoshop > Figma > AdobeXD)
 - CSS3
-- LESS / SASS
+- podstawy LESS / SASS
 - Bootstrap
 - Javascript ES5 / ES6
 - AJAX
@@ -14,13 +14,13 @@ Dobra znajomość z doświadczeniem zawodowym:
 - CakePHP
 - MVC
 - SQL + MySQL
+- XML, JSON
 - Podstawy .htpasswd / .htaccess
 - CMS
 - Agile, SCRUM
 - Podstawy budowy aplikacji pod SEO
 
 Uczę się:
-- Node.js
 - Gulp
 - React
 - CRON
