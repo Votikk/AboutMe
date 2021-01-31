@@ -19,6 +19,7 @@ Dobra znajomość z doświadczeniem zawodowym:
 - CMS
 - Agile, SCRUM
 - Podstawy budowy aplikacji pod SEO
+- Emmet
 
 Uczę się:
 - Gulp
