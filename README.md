@@ -31,3 +31,7 @@ Zainteresowany:
 - UI / UX
 - Web Design
 - C++/C#
+
+Dodatkowa znajomość oprogramowania:
+- trello / clickup
+- Sourcetree / Fork
